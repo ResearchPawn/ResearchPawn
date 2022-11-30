@@ -7,7 +7,7 @@ Here's a basic introduction to my online presence and few other things:
 - Why pursue this goal?
 - How I'm going to achieve this goal?
 - When and only if I achieve this goal, how will I keep and mantain it?
-- 
+------------------------
 - Background?
 - Identity?
 - Education?
@@ -15,11 +15,8 @@ Here's a basic introduction to my online presence and few other things:
 - Interests & Hobbies?
 - Philosophy? 
 - Politics?
-
-
+------------------------
 - Projects?
 1. OpenAI
-
-
+------------------------
 - Products!
-- 
