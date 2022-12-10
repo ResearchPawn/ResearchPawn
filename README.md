@@ -1,6 +1,6 @@
 Hey this is RP (Research Pawn).
 
-I have zero working coding knowledge but I know quite aome things overall.
+I have zero working coding knowledge but I know quite some things overall.
 Here's a basic introduction to my online presence and few other things:
 
 - What's my goal here?
@@ -9,7 +9,7 @@ Here's a basic introduction to my online presence and few other things:
 - When and only if I achieve this goal, how will I keep and mantain it?
 ------------------------
 - Background?
-- Identity?
+- Identity? /
 - Education?
 - Professional experience?
 - Interests & Hobbies?
