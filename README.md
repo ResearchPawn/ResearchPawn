@@ -1,6 +1,6 @@
 Hey, this is RP (Research Pawn).
 
-I have zero working coding knowledge, but I know quite some things overall.
+I have zero working coding knowledge, but this is a work in progress, and I LOVE to learn.
 Here's a basic introduction to my online presence and a few other things:
 
 - What's my goal here?
